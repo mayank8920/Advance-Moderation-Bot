@@ -1,0 +1,30 @@
+{
+  "name": "moderation-bot",
+  "version": "0.0.1",
+  "description": "An Advanced Moderation Bot Developed by Mr Coder Youtube Channel",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "dotenv": "^10.0.0",
+    "ascii-table": "^0.0.9",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/mrcoder-moderation-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
